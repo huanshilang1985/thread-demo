@@ -6,6 +6,7 @@
 
     <groupId>com.zh.thread</groupId>
     <artifactId>thread-demo</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
@@ -15,6 +16,7 @@
         <module>thread-aqs-demo</module>
         <module>thread-semaphore-demo</module>
         <module>thread-collection-demo</module>
+        <module>thread-pool-demo</module>
     </modules>
 
     <build>
